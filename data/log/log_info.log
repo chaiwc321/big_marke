@@ -1,0 +1,12 @@
+24-04-25.22:33:15.677 [main            ] INFO  Application            - Starting Application using Java 1.8.0_341 on Whale with PID 29260 (D:\myjcode\cwc-frame-archetype-lite\cwc-frame-archetype-lite-app\target\classes started by ocean in D:\myjcode\cwc-frame-archetype-lite)
+24-04-25.22:33:15.679 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-04-25.22:33:16.120 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[cn.cwc]' package. Please check your configuration.
+24-04-25.22:33:16.746 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+24-04-25.22:33:16.752 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+24-04-25.22:33:16.753 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-04-25.22:33:16.753 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-04-25.22:33:16.890 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-04-25.22:33:16.890 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1171 ms
+24-04-25.22:33:17.338 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+24-04-25.22:33:17.363 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+24-04-25.22:33:17.373 [main            ] INFO  Application            - Started Application in 2.12 seconds (JVM running for 2.553)
