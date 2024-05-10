@@ -1,0 +1,8 @@
+cn\cwc\test\UserDTO.class
+cn\cwc\test\UserVO.class
+cn\cwc\test\UserVO$xx.class
+cn\cwc\test\UserDTO$UserDTOBuilder.class
+cn\cwc\test\UserVO$UserVOBuilder.class
+cn\cwc\test\UserVO$xx$xxBuilder.class
+cn\cwc\test\ApiTest.class
+cn\cwc\test\infrastructure\AwardDaoTest.class

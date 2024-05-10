@@ -1,0 +1,5 @@
+24-05-09.21:45:23.706 [main            ] INFO  ApiTest                - Starting ApiTest using Java 1.8.0_341 on Whale with PID 35084 (started by ocean in D:\myjcode\big_marke\big_marke-app)
+24-05-09.21:45:23.707 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-05-09.21:45:24.198 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[cn.cwc]' package. Please check your configuration.
+24-05-09.21:45:25.145 [main            ] INFO  ApiTest                - Started ApiTest in 1.788 seconds (JVM running for 2.669)
+24-05-09.21:45:25.321 [main            ] INFO  ApiTest                - 测试完成

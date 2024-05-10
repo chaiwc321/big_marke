@@ -1,0 +1,8 @@
+cn\cwc\infrastructure\persistent\dao\IStrategyRuleDao.class
+cn\cwc\infrastructure\persistent\po\StrategyRule.class
+cn\cwc\infrastructure\persistent\dao\IAwardDao.class
+cn\cwc\infrastructure\persistent\po\Award.class
+cn\cwc\infrastructure\persistent\po\Strategy.class
+cn\cwc\infrastructure\persistent\po\StrategyAward.class
+cn\cwc\infrastructure\persistent\dao\IStrategyDao.class
+cn\cwc\infrastructure\persistent\dao\IStrategyAwardDao.class
