@@ -22,7 +22,7 @@ public class ApiTest {
         userDTO.setUserId(userVO.getUserId());
         userDTO.setUserName(userVO.getUserName());
         userDTO.setUserAge(userVO.getUserAge());
-
+        log.info("");
     }
 
 }

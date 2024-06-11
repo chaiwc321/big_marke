@@ -1,0 +1,10 @@
+24-06-07.13:31:16.568 [main            ] INFO  StrategyTest           - Starting StrategyTest using Java 1.8.0_341 on Whale with PID 33660 (started by ocean in D:\myjcode\big_marke\big_marke-app)
+24-06-07.13:31:16.570 [main            ] INFO  StrategyTest           - The following 1 profile is active: "dev"
+24-06-07.13:31:17.674 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-06-07.13:31:17.678 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-06-07.13:31:17.718 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-06-07.13:31:19.580 [main            ] INFO  Version                - Redisson 3.23.4
+24-06-07.13:31:20.367 [redisson-netty-2-11] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+24-06-07.13:31:20.371 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 127.0.0.1/127.0.0.1:6379
+24-06-07.13:31:21.983 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-06-07.13:31:22.042 [main            ] INFO  StrategyTest           - Started StrategyTest in 6.054 seconds (JVM running for 7.768)

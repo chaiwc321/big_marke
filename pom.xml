@@ -92,6 +92,12 @@
                 <artifactId>commons-codec</artifactId>
                 <version>1.15</version>
             </dependency>
+            <dependency>
+                <groupId>org.redisson</groupId>
+                <artifactId>redisson-spring-boot-starter</artifactId>
+                <version>3.23.4</version>
+            </dependency>
+
 
             <!-- 工程模块 -->
             <dependency>
@@ -172,7 +178,8 @@
         </profile>
     </profiles>
 
-<modules>  <module>big_marke-app</module>
+<modules>
+    <module>big_marke-app</module>
     <module>big_marke-domain</module>
     <module>big_marke-trigger</module>
     <module>big_marke-infrastructure</module>

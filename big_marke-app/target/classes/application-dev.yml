@@ -34,6 +34,18 @@ mybatis:
   mapper-locations: classpath:/mybatis/mapper/*.xml
 #  config-location:  classpath:/mybatis/config/mybatis-config.xml
 
+redis:
+  sdk:
+    config:
+      host: 127.0.0.1
+      port: 6379
+      password: "cwcredis"
+      pool_size: 10
+      min_idle_size: 5
+      idle_timeout: 30000
+      connect_timeout: 5000
+      retry-attempts: 3
+
 # 日志
 logging:
   level:
